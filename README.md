@@ -9,5 +9,6 @@ Foi ultilizado:
 - Express
 - Cors
 - Conn
+- Bcrypt
 
 ### Sheron Kup
