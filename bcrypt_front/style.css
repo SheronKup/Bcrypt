@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to top left , rgb(74, 67, 133), rgb(22, 19, 49));
+    background-color: black;
+    height: 100vh;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1.4rem;
+}
+
+
+button{
+    background-color: black;
+    color: white;
+}
